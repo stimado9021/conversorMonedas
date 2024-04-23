@@ -40,7 +40,7 @@ public class ConversorMonedas {
             return;
         }
              
-        String url = API_URL + monedas + cantidad;
+        String url = API_URL + monedas  + cantidad;
 
     }
 }
